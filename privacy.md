@@ -1,136 +1,53 @@
-\*\*Privacy Policy\*\*
+# Privacy Policy – dale海关数据
 
+Effective date: 2026-01-16
 
+## Overview
+This Privacy Policy applies to the Chrome browser extension “dale海关数据” (the “Extension”).
 
-This privacy policy applies to the dale海关数据 app (hereby referred to as "Application") for mobile devices that was created by customsdatas.com (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+The Extension is designed to assist users in quickly querying publicly available business and customs-related information through external websites using browser context menu actions. The Extension operates primarily within the user’s browser environment.
 
+## Information Collection
+The Extension does **not** collect, store, or transmit any personal data, including but not limited to:
+- Names, email addresses, phone numbers, or other identifiers
+- IP addresses
+- Browsing history
+- Location information
+- Authentication credentials or financial information
 
+Any text selected by the user is used **only locally** to construct search queries and is immediately passed to the destination website selected by the user.
 
-\*\*Information Collection and Use\*\*
+## Data Usage
+All operations performed by the Extension occur locally within the user’s browser.  
+The Extension does not:
+- Send data to its own servers
+- Track users
+- Perform analytics or behavioral profiling
 
+## Permissions
+The Extension requests only the minimum permissions necessary to provide its functionality:
+- `contextMenus`: to provide right-click menu options for quick searches
+- `activeTab`: to access the currently active page when triggered by the user
+- `storage`: to store activation information locally within the browser
 
+These permissions are used solely to enable the Extension’s core features.
 
-The Application collects information when you download and use it. This information may include information such as
+## Third-Party Websites
+When a user selects a menu option, the Extension may open third-party websites (such as search engines or public business databases) in a new browser tab.  
+Any data processing performed on those websites is governed by their respective privacy policies. The Extension does not control or monitor third-party services.
 
+## Data Retention
+The Extension does not retain personal data.  
+Activation-related information (if any) is stored locally on the user’s device and can be removed by uninstalling the Extension or clearing browser data.
 
+## Children’s Privacy
+The Extension is not intended for use by children under the age of 13 and does not knowingly collect personal information from children.
 
-\*   Your device's Internet Protocol address (e.g. IP address)
+## Changes to This Policy
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated effective date.
 
-\*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+## Contact
+If you have any questions about this Privacy Policy or the Extension’s data practices, please contact:
 
-\*   The time spent on the Application
-
-\*   The operating system you use on your mobile device
-
-
-
-The Application does not gather precise information about the location of your mobile device.
-
-
-
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
-
-
-\*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-
-\*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-
-\*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
-
-
-
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
-
-
-
-\*\*Third Party Access\*\*
-
-
-
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
-
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-
-
-\*   as required by law, such as to comply with a subpoena, or similar legal process;
-
-\*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-
-\*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-
-
-\*\*Opt-Out Rights\*\*
-
-
-
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-
-
-\*\*Data Retention Policy\*\*
-
-
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at customsdatas.com and they will respond in a reasonable time.
-
-
-
-\*\*Children\*\*
-
-
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-
-
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (customsdatas.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
-
-
-
-\*\*Security\*\*
-
-
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-
-
-\*\*Changes\*\*
-
-
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-
-
-This privacy policy is effective as of 2026-01-16
-
-
-
-\*\*Your Consent\*\*
-
-
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-
-
-\*\*Contact Us\*\*
-
-
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at customsdatas.com.
-
-
-
-
-
+Email: customsdatas@gmail.com  
+Phone: +86 15754713394
